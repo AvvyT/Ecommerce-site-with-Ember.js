@@ -1,0 +1,19 @@
+.bag-link {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  background-color: #fff;
+  color: gray;
+  width: 65px;
+  height: 65px;
+  font-size: 32px;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: grey;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
