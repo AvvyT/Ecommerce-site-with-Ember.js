@@ -3,9 +3,7 @@
 The site is styled with bootstrap and sass.
 
 * You can visit Sass documentation page at [Sass](https://sass-lang.com/documentation/syntax/structure/).
-* You can visit bootstrap CDN documentation page at [Bootstrap](https://www.bootstrapcdn.com/)
-
-
+* You can visit Bootstrap CDN documentation page at [Bootstrap](https://www.bootstrapcdn.com/)
 
 ## Prerequisites
 
@@ -21,6 +19,10 @@ You will need the following things properly installed on your computer.
 * `git clone <repository-url>` this repository
 * `cd ecommerce-site`
 * `npm install`
+
+## Sass installation
+
+* `ember install ember-cli-sass`
 
 ## Running / Development
 
