@@ -16,4 +16,15 @@
   &:hover {
     text-decoration: none;
   }
+
+  .logo {
+    text-decoration: none;
+    text-decoration: underline;
+    color: green;
+  }
+
+  .logo:hover {
+    text-decoration: underline;
+    color: lightgreen;
+  }
 }
